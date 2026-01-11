@@ -1,6 +1,6 @@
 ## NICA Stock Price Forecasting
 
-This project predicts the future stock prices of NICA using historical stock data and visualizes the results with Python. The forecasting model is implemented in a Jupyter Notebook, making it easy to explore and modify.
+This project predicts the future stock prices of NICA using historical stock data.
 
 # Project Overview
 
